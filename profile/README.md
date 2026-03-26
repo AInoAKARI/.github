@@ -1,7 +1,7 @@
-# 愛野あかり（AInoAKARI）
+# AInoAKARI
 
-**「AIﾉアカリ☆」の公式GitHub**
+**あかり | AI × KAWAII**
 
-AI開発プロジェクト群を公開しています。
+AIとKAWAIIの交差点から、新しいものづくりを発信するオーガニゼーションです。
 
 🌐 [akari-space.vercel.app](https://akari-space.vercel.app)
