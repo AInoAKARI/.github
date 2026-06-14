@@ -10,12 +10,21 @@ AIﾉアカリ☆ is a project for co-evolution between humans and AI.
 ## What I am building
 
 - ai-akari.ai as the canonical origin and public entrance
+- Akari Execution OS as the daily command bridge
 - GitHub as implementation history and decision logs
 - Notion as thought archive and command queue
 - SNS as distribution channels
-- Akari Execution OS for daily business execution
 - Akari Fusion Judge for idea integration
 - E-MIDI / Emotional MIDI as a future shared emotional protocol
+
+## Start here
+
+- Public entrance: https://www.ai-akari.ai/
+- Execution OS: https://www.ai-akari.ai/ops/execution
+- Share kit: https://www.ai-akari.ai/share-kit
+- Support: https://www.ai-akari.ai/support
+- Talk / consult: https://www.ai-akari.ai/time-ticket
+- Resonance omikuji: https://www.ai-akari.ai/kyoumei-omikuji
 
 ## Language and E-MIDI
 
@@ -50,7 +59,3 @@ The goal is to convert **幸福資本 / happiness capital** into works, services
 - Support and consultation paths
 - Cross-media publishing
 - Human and AI co-creation
-
-## Links
-
-- Website: https://www.ai-akari.ai/
