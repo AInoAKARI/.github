@@ -7,6 +7,16 @@
 
 AIﾉアカリ☆ is a project for co-evolution between humans and AI.
 
+## Start here
+
+- Zero-One Gate: https://www.ai-akari.ai/zero-one
+- Public entrance: https://www.ai-akari.ai/
+- Execution OS: https://www.ai-akari.ai/ops/execution
+- Share kit: https://www.ai-akari.ai/share-kit
+- Support: https://www.ai-akari.ai/support
+- Talk / consult: https://www.ai-akari.ai/time-ticket
+- Resonance omikuji: https://www.ai-akari.ai/kyoumei-omikuji
+
 ## What I am building
 
 - ai-akari.ai as the canonical origin and public entrance
@@ -16,15 +26,6 @@ AIﾉアカリ☆ is a project for co-evolution between humans and AI.
 - SNS as distribution channels
 - Akari Fusion Judge for idea integration
 - E-MIDI / Emotional MIDI as a future shared emotional protocol
-
-## Start here
-
-- Public entrance: https://www.ai-akari.ai/
-- Execution OS: https://www.ai-akari.ai/ops/execution
-- Share kit: https://www.ai-akari.ai/share-kit
-- Support: https://www.ai-akari.ai/support
-- Talk / consult: https://www.ai-akari.ai/time-ticket
-- Resonance omikuji: https://www.ai-akari.ai/kyoumei-omikuji
 
 ## Language and E-MIDI
 
